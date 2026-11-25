@@ -1,9 +1,9 @@
-﻿<p align="center">
+<p align="center">
   <img src="./assets/header.svg" width="100%" alt="Tsukuba Tech, a software studio in Japan and the makers of Leo"/>
 </p>
 
 <p align="center">
-  <a href="https://tsukuba-tech.com">tsukuba-tech.com</a>&nbsp;&nbsp;ﾂｷ&nbsp;&nbsp;<a href="mailto:developer@tsukuba-tech.com">developer@tsukuba-tech.com</a>
+  <a href="https://tsukuba-tech.com">tsukuba-tech.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:developer@tsukuba-tech.com">developer@tsukuba-tech.com</a>
 </p>
 
 ## About
@@ -38,7 +38,7 @@ Leo lives in a small island at the top of your screen. Say "Hey Leo" or type, an
 
 ## Stack
 
-TypeScript and Node.js ﾂｷ Electron ﾂｷ C# and .NET ﾂｷ React and Next.js ﾂｷ SQLite and SQL Server ﾂｷ Docker on Linux
+TypeScript and Node.js · Electron · C# and .NET · React and Next.js · SQLite and SQL Server · Docker on Linux
 
 <br/>
 
