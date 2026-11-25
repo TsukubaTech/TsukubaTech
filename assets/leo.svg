@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Leo's island at the top of a Windows desktop: asked to set the screen to turn off after 10 minutes, it replies Done, handled locally with no AI">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#131a24"/>
+      <stop offset="0.45" stop-color="#2c3a4d"/>
+      <stop offset="0.72" stop-color="#7d7f86"/>
+      <stop offset="0.86" stop-color="#d1a27c"/>
+      <stop offset="1" stop-color="#e8b98e"/>
+    </linearGradient>
+    <linearGradient id="mt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#232c38"/><stop offset="1" stop-color="#171d26"/>
+    </linearGradient>
+    <linearGradient id="isl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0b0c"/><stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="c"><rect width="900" height="340" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <g transform="scale(0.75 0.85)"><rect width="1200" height="400" fill="url(#sky)"/>
+    <path d="M0 300 C120 286 240 276 380 270 C520 264 640 262 760 266 C900 270 1060 280 1200 290 V400 H0 Z" fill="#4a5262" fill-opacity="0.55"/>
+    <path d="M280 400 C380 360 470 330 560 300 C620 280 668 238 700 220 C712 214 722 216 732 226 C742 236 750 240 758 238 C770 234 780 214 794 208 C806 204 818 212 834 226 C890 270 1000 310 1200 340 V400 Z" fill="url(#mt)"/>
+    <path d="M0 372 C200 362 400 358 600 360 C800 362 1000 368 1200 376 V400 H0 Z" fill="#10141a"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="339" rx="15.5" fill="none" stroke="#fff" stroke-opacity="0.08"/>
+
+  <g filter="url(#shadow)">
+    <rect x="110" y="36" width="680" height="104" rx="52" fill="url(#isl)"/>
+  </g>
+  <rect x="110.5" y="36.5" width="679" height="103" rx="51.5" fill="none" stroke="#fff" stroke-opacity="0.09"/>
+  <circle cx="166" cy="88" r="24" fill="#34c77b" fill-opacity="0.14"/>
+  <path d="M155 88.5 l7.5 7.5 l14 -15.5" fill="none" stroke="#34c77b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="80" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#a4a8ae">Set the screen to turn off after 10 minutes</text>
+  <text x="210" y="110" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#eceef0">Done. The screen turns off after 10 minutes</text>
+  <text x="750" y="94" text-anchor="end" font-family="'Cascadia Code', 'SF Mono', Consolas, monospace" font-size="15" fill="#6c7076">no AI</text>
+</svg>
